@@ -23,10 +23,8 @@
 - Download XAMPP
 - SQL
 
->**Preview**
 
-![Capture](https://user-images.githubusercontent.com/68319165/206228700-a0f96f64-3ea5-4413-9857-f1d8c9122612.PNG)
-![1](https://user-images.githubusercontent.com/68319165/206228727-0315b836-9086-4416-80f7-4ac3e0c7a19c.PNG)
-![2](https://user-images.githubusercontent.com/68319165/206228748-4039b48d-ae59-40b3-8a51-10f297e4172c.PNG)
+
+
 
 
